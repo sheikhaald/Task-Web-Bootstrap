@@ -48,11 +48,9 @@
 
 [Avatar](https://mdbootstrap.com/docs/standard/extended/avatar/)
 
-
 - Add a button classname and change it's color.
 
 [Button](https://getbootstrap.com/docs/5.2/components/buttons/)
-
 
 - Add a margin between the image, the text and the button.
 
